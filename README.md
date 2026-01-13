@@ -1,7 +1,7 @@
-# e-commerce
+
 # E-Commerce Admin Dashboard
 
-🎯 Goal
+### 🎯 Goal
 
 Build a professional Admin dashboard that demonstrates:
 
